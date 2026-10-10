@@ -52,10 +52,6 @@
 <img width="100%" src="https://streak-stats.demolab.com/?user=prateekg883&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/><br/>
 
-<!-- Contribution calendar (green boxes, one per day) -->
-<img width="100%" src="https://ghchart.rshah.org/10B981/prateekg883" alt="contribution calendar" />
-<br/><br/>
-
 </div>
 
 <!-- STEP B (optional): stats cards. Needs your own Vercel URL. Replace YOUR-INSTANCE, then remove this line and the closing line.
@@ -65,7 +61,7 @@
 </div>
 -->
 
-<!-- STEP C: animated snake. Uncomment ONLY after the Action runs green (the output branch must exist).
+<!-- Animated snake -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekg883/prateekg883/output/github-snake-dark.svg" />
@@ -73,6 +69,5 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/prateekg883/prateekg883/output/github-snake.svg" />
 </picture>
 </div>
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0A101F&height=100&section=footer" alt="footer" />
