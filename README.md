@@ -52,12 +52,8 @@
 <img width="100%" src="https://streak-stats.demolab.com/?user=prateekg883&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/><br/>
 
-<!-- Contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prateekg883&bg_color=0A101F&color=22D3EE&line=10B981&point=F8FAFC&area=true&area_color=10B981&hide_border=true&radius=8" alt="contribution activity graph" />
-<br/><br/>
-
-<!-- Trophies -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=prateekg883&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+<!-- Contribution calendar (green boxes, one per day) -->
+<img width="100%" src="https://ghchart.rshah.org/10B981/prateekg883" alt="contribution calendar" />
 <br/><br/>
 
 </div>
